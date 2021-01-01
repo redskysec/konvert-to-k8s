@@ -1,0 +1,5 @@
+kompose convert
+mkdir k8s
+mv *.yaml k8s
+
+
